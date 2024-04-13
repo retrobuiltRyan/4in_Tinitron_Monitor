@@ -10,5 +10,6 @@ If using a Pi, these settings will work.
 
 Parts and Links:
 
-![image](https://github.com/retrobuiltRyan/4in_Tinitron_Monitor/assets/68818321/f4a9f626-cabc-4a24-8a3e-54b37acc706b)
+![image](https://github.com/retrobuiltRyan/4in_Tinitron_Monitor/assets/68818321/446b36c9-a72b-422a-af79-9c91d751aaa5)
+
 
