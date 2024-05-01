@@ -14,4 +14,7 @@ Parts and Links:
 
 ![image](https://github.com/retrobuiltRyan/4in_Tinitron_Monitor/assets/68818321/446b36c9-a72b-422a-af79-9c91d751aaa5)
 
-
+Links here bc they dont work in the integrated table?
+4" LCD https://www.aliexpress.us/item/3256803352252987.html?spm=a2g0o.order_list.order_list_main.11.1fc91802pAd9En&gatewayAdapt=glo2usa
+90_deg_HDMI dongle https://www.aliexpress.us/item/3256802099720174.html?spm=a2g0o.order_detail.order_detail_item.4.c31af19ctzfSfO&gatewayAdapt=glo2usa
+USB-C panel mount https://www.aliexpress.us/item/3256805810676482.html?spm=a2g0o.order_list.order_list_main.5.1fc91802pAd9En&gatewayAdapt=glo2usa
