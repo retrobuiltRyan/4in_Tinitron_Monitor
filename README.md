@@ -1,5 +1,7 @@
 # 4in_Tinitron_Monitor
 4in 800x480 LCD Monitor that looks like a Sony Trinitron Wega
+![frame for commerical](https://github.com/user-attachments/assets/014ebb51-ab71-4c0a-9666-68c4e290a47c)
+
 https://www.youtube.com/watch?v=1_5VtVP_qF4
 ![P1090145](https://github.com/retrobuiltRyan/4in_Tinitron_Monitor/assets/68818321/629bee7f-2670-4935-8b99-f43e5b158e72)
 
