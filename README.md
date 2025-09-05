@@ -1,7 +1,10 @@
 # 4in_Tinitron_Monitor
 4in 800x480 LCD Monitor that looks like a Sony Trinitron Wega.
+
 There are two different "TV" assemblies in this repo. 
+
 a) TV shaped enclosure for a 4inch LCD 
+
 b) TV shaped enclosure for a 4inch LCD + Raspberry Pi 3
 ![frame for commerical](https://github.com/user-attachments/assets/014ebb51-ab71-4c0a-9666-68c4e290a47c)
 
